@@ -1,0 +1,27 @@
+form {
+    width: 700px;
+}
+
+table, th, td {
+    border: 1px solid #000;
+}
+
+button, input[type=submit], select, input[type=checkbox], input[type=radio], #gender>label, #driver-license>div>label {
+    cursor: pointer;
+}
+
+input, select {
+    margin-bottom: 5px;
+}
+
+.block {
+    display: block;
+}
+
+table{
+    margin-bottom: 15px;
+    border: ridge;
+}
+td, th{
+    padding: 5px;
+}
